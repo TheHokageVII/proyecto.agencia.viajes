@@ -20,7 +20,7 @@ $result = $conn->query($sql);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hoteles Registrados</title>
+    <title>Registro de Hoteles</title>
 </head>
 <body>
     <h2>Hoteles Registrados</h2>
